@@ -1,6 +1,6 @@
 # Paralela02
 
-* Primero taller de C
+* Primer taller de C
 
 Para ejecutar cada ejercicio se debe poner en un archivo de texto con la extensión .c
 Una vez copiado y pegado el codigo, se debe de abrir una terminal en el sistema operativo Ubuntu
