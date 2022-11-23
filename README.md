@@ -7,8 +7,7 @@ Una vez copiado y pegado el codigo, se debe de abrir una terminal en el sistema 
 se debe de acceder a la ubicación del archivo de texto con la extensión .c y ahi se compilara
 con el comando 'gcc' <nombre del archivo.c> y después se ejecutara con './a.out' y ahi se ejecutara el archivo.
 
-
-# Trabajo Python/Cython
+<h2>Trabajo Python/Cython</h2>
 
 * Para la ejecución del programa, se debe realizar un make all, para que se compile el programa. Posteriormente, se ejecutara el comando python3 prueba_tierra.py, y se generará un archivo en formato csv, que contendra los tiempos de ejecución del programa en el lenguaje Python y Cython
 
